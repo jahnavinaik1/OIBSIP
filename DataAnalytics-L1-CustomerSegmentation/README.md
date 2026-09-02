@@ -136,7 +136,7 @@ The detailed characteristics and sizes of the clusters are presented in the corr
 DataAnalytics-L1-CustomerSegmentation
 │
 ├── Customer_Segmentation.ipynb
-├── customer_data.csv
+├──store_-customers.csv
 ├── README.md
 │
 └── screenshots
